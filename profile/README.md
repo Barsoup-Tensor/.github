@@ -1,12 +1,12 @@
 <div align="center">
-  <a href="https://github.com/Barsoup-Tensor/.github/milestones" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px;">
-    스프린트
+  <a href="https://github.com/Barsoup-Tensor/.github/discussions/categories/daily-scrum" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px;">
+    데일리 스크럼
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Barsoup-Tensor/.github/discussions/1" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px;">
-    데일리 스크럼
+  <a href="https://github.com/Barsoup-Tensor/.github/milestones" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px;">
+    스프린트
   </a>
 </div>
 
