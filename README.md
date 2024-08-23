@@ -1,0 +1,1 @@
+[컨벤션]([https://github.com/nhnacademy-be6-yes-25-5/.github/wiki/%EC%BD%94%EB%93%9C-%EC%BB%A8%EB%B2%A4%EC%85%98](https://github.com/Barsoup-Tensor/.github/wiki/%EC%BD%94%EB%93%9C,-%EC%BB%A4%EB%B0%8B-%EC%BB%A8%EB%B2%A4%EC%85%98))
